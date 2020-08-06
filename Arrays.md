@@ -6,6 +6,6 @@ Arrays are a group or ___collection of___ similar or different types of element
 >
 >>Let's start
 >
-`<html>
-<body></body>
-</html>`
+```html5<html></html>```
+*
+-
