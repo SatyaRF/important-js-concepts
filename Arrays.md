@@ -7,5 +7,4 @@ Arrays are a group or ___collection of___ similar or different types of element
 >>Let's start
 >
 
-* Hello
-_
+[Github](https://www.github.com "Github Website")
