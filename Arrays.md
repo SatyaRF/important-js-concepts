@@ -5,4 +5,5 @@ Arrays are a group or ___collection of___ similar or different types of element
 >So talking about arrays in JS
 >
 >>Let's start
+<br>
 `<html></html>`
